@@ -1,0 +1,6 @@
+@DogReview_HostAddress = http://localhost:5249
+
+GET {{DogReview_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
